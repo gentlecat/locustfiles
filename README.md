@@ -1,4 +1,4 @@
-This is a repository with configuration files for (Locust)[http://locust.io/] load testing tool.
+This is a repository with configuration files for [Locust](http://locust.io/) load testing tool.
 
 ## Installation
 
